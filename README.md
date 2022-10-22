@@ -2,6 +2,6 @@
 
 A new Flutter project.
 
-<img src="https://user-images.githubusercontent.com/45129432/111322696-3cda3e80-867a-11eb-992a-310f0a9c4a93.jpeg" width="350px" height="600px">
 
 
+![Desktop Screenshot 2022 10 22 - 08 18 40 13 (2)](https://user-images.githubusercontent.com/110339523/197347188-d5a52ec9-d5ed-4a35-9e98-c5733688771e.png)
